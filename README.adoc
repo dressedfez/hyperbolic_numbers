@@ -1,0 +1,4 @@
+# Hyperbolic numbers
+
+This is a package for the calculation with 
+hyperbolic numbers.
