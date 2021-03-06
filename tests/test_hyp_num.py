@@ -10,7 +10,7 @@ class TestHyp_num():
         assert expectedResult == result
 
     def test_multiply(self):
-        expectedResult=hyp_num.Hyp_num(3, 5)
+        expectedResult=hyp_num.Hyp_num(8, 7)
         a=hyp_num.Hyp_num(1, 2)
         b=hyp_num.Hyp_num(2, 3)
         result=a.multiply(b)
